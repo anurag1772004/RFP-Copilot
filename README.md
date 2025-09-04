@@ -1,4 +1,4 @@
-# 🚀 RFP-Copilot AI
+<img width="1910" height="926" alt="image" src="https://github.com/user-attachments/assets/fb0d614c-4f05-47e9-985f-b9f0b91b8cb3" /># 🚀 RFP-Copilot AI
 
 RFP Copilot is an **AI-powered assistant** that automates RFP (Request for Proposal) responses using **TinyLLaMA + Streamlit**.  
 It extracts requirements, generates project plans, creates role-based cost estimations, and produces **Excel-style Gantt charts** automatically.  
@@ -30,7 +30,7 @@ With a clean UI, it helps teams craft **high-quality proposals faster and more a
 
 ## ⚡️ Demo
 ### RFP to Proposal Workflow
-![Uploading image.png…]()
+
 
 
 *(Add more screenshots or a GIF of your app running)*
