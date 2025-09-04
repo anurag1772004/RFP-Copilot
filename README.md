@@ -30,7 +30,8 @@ With a clean UI, it helps teams craft **high-quality proposals faster and more a
 
 ## ⚡️ Demo
 ### RFP to Proposal Workflow
-![Demo Screenshot](assets/demo.png)
+![Uploading image.png…]()
+
 
 *(Add more screenshots or a GIF of your app running)*
 
