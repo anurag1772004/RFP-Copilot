@@ -32,8 +32,10 @@ With a clean UI, it helps teams craft **high-quality proposals faster and more a
 ### RFP to Proposal Workflow
 
 
+<img width="1636" height="934" alt="image" src="https://github.com/user-attachments/assets/39fbe160-6257-4113-bd59-806355bb157b" />
+<img width="1719" height="901" alt="image" src="https://github.com/user-attachments/assets/14b18e70-8889-40c8-8b31-89269766b78d" />
 
-*(Add more screenshots or a GIF of your app running)*
+
 
 ---
 
